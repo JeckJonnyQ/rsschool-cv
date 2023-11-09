@@ -12,3 +12,15 @@ Discord: JeckJonny#1844
 
 GitHub: [JeckJonnyQ](https://github.com/JeckJonnyQ)
 - - -
+
+### About me:
+I am a highly organized and goal-oriented person interested in front-end development. Many of my skills in this area were acquired through self-study and taking special courses.
+Thanks to my communication skills, I learn new information well and much faster when working in a team.
+- - -
+### Skills:
+* HTML5, CSS3, SCSS
+* JavaScript (Basic, MVC, SPA)
+* Git, GitHub
+* VS Code
+* Figma (Basic)
+- - -
